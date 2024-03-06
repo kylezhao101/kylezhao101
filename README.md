@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🐋 Creating bugs since 2022<br>🐟 I'm currently learning React and Firebase<br>🌊 Goals: Create fun projects and learn consistently<br>🐙 Fun fact: I do art on the side :)</p>
+<p align="left">🐋 Creating bugs since 2022<br>🐟 I'm currently learning Android development and PyTorch<br>🌊 Goals: Create fun projects and learn consistently<br>🐙 Fun fact: I do art on the side :)</p>
 
 ###
 
